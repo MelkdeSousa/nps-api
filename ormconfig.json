@@ -1,7 +1,6 @@
 {
   "type": "sqlite",
   "database": "./src/database/database.sqlite",
-  "logging": true,
   "migrations": [
     "./src/database/migrations/*.ts"
   ],
